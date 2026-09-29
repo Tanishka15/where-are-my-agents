@@ -1,0 +1,128 @@
+{
+  "version": 2,
+  "archived": [
+    "cursor:18513b61-cfe0-45be-a168-67e37cdf6d44"
+  ],
+  "archivedAt": {
+    "cursor:18513b61-cfe0-45be-a168-67e37cdf6d44": 1790275049660
+  },
+  "opened": [],
+  "plots": {
+    "dep-1": [
+      [
+        1,
+        -1
+      ]
+    ],
+    "trandive": [
+      [
+        0,
+        -1
+      ]
+    ],
+    "bollywood-buzz-tracker": [
+      [
+        0,
+        0
+      ]
+    ],
+    "amazonml": [
+      [
+        1,
+        -1
+      ]
+    ],
+    "CS560": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "SafeSpace": [
+      [
+        0,
+        1
+      ]
+    ],
+    "dep_1": [
+      [
+        1,
+        0
+      ]
+    ]
+  },
+  "seen": {
+    "codex:019dd256-36df-7c21-8ea6-39ad066cc5e0": 1790273464709,
+    "codex:019dd7a4-b2c6-7ed0-8385-a97a964c6305": 1790273464709,
+    "codex:019dca8f-23ef-7990-83ce-0dffb2a4c5c5": 1790273464709,
+    "codex:019dc990-e096-71f2-90c8-adce25e09335": 1790273464709,
+    "cursor:3439014e-74c0-45c1-8b6e-3f390ee4bc5a": 1790273464709,
+    "codex:019db682-e0ed-7803-9189-8eabcbfca5dd": 1790273464709,
+    "codex:019dba2b-3404-7ef1-b032-d7754e0c26d3": 1790273464709,
+    "codex:019db4ef-5ccf-7981-926c-12608dd8d44d": 1790273464709,
+    "cursor:34abd1ae-860a-482b-be8e-13f0d5d9db70": 1790273464709,
+    "cursor:18513b61-cfe0-45be-a168-67e37cdf6d44": 1790273464709,
+    "codex:019da0b8-81d0-7603-bf65-d08b95a7607e": 1790273464709,
+    "codex:019da064-1f0c-7710-baff-8b00e2fb1895": 1790273464709,
+    "codex:019da050-27b3-7f72-ab1f-4208d4f4f8e2": 1790273464709,
+    "codex:01a0c337-254e-7cb0-811c-cbefbb9639fb": 1790274835029,
+    "codex:01a0c376-b0b2-7100-95c8-564ab59ae3a5": 1790274835029,
+    "codex:01a0c992-50a0-77d3-a45a-19b174217aae": 1790274835029,
+    "codex:01a0da59-067c-7fc1-b794-a2d6eb16c520": 1790673261771,
+    "codex:01a0d5b8-92ed-7da0-9388-c52c6cfdae72": 1790673261771,
+    "codex:01a0e6d0-90a5-7322-88f8-65651a5a2089": 1790673339619,
+    "codex:01a0ec7a-70bc-7630-98f6-53f415ff75ff": 1790673878375,
+    "codex:01a0ec86-8680-7573-928e-a7bf952b5027": 1790674712300
+  },
+  "hiddenProjects": [],
+  "viewedAt": {
+    "codex:01a0c992-50a0-77d3-a45a-19b174217aae": 1790274871260
+  },
+  "settings": {
+    "preset": "custom",
+    "renderScale": 1,
+    "shadows": "high",
+    "bloom": true,
+    "antialias": true,
+    "particles": "full",
+    "textureQuality": "high",
+    "scatterDensity": 0.85,
+    "groundDetail": "high",
+    "maxAgents": 140,
+    "stars": true,
+    "ibl": true,
+    "tiltShift": true,
+    "colorGrade": true,
+    "ambientOcclusion": 1,
+    "clouds": true,
+    "fauna": "full",
+    "planet": "beach",
+    "hideDormant": true,
+    "timeOfDay": 0.6159606481481481,
+    "autoTime": false,
+    "clockTime": true,
+    "dayLength": 240,
+    "exposure": 1,
+    "bloomStrength": 0.25,
+    "tiltShiftStrength": 0.2,
+    "tiltShiftAngle": 0,
+    "iblIntensity": 1,
+    "fov": 25,
+    "worldCurve": 0.45,
+    "saturation": 1.3,
+    "vignette": 0.3,
+    "sound": false,
+    "masterVolume": 0.7,
+    "ambienceVolume": 0.8,
+    "effectsVolume": 1,
+    "autoQuality": true,
+    "autoFrame": false,
+    "followSelected": true,
+    "followDefaultOn": true,
+    "showFps": false,
+    "showLabels": true,
+    "reducedMotion": false,
+    "openIn": "app"
+  },
+  "updatedAt": 1790674713359
+}
